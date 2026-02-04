@@ -1,0 +1,17 @@
+[
+  {
+    "id": "fc1a5426-5c8c-4661-90a9-51c8c7bcd23c",
+    "task": "äta mat",
+    "completed": true
+  },
+  {
+    "id": "ff228185-9de7-4953-828f-5442bf8d6552",
+    "task": "pöpöp",
+    "completed": true
+  },
+  {
+    "id": "64fcb066-e21c-4843-9a0c-c20bebb8f026",
+    "task": "poppa popcorn",
+    "completed": false
+  }
+]
